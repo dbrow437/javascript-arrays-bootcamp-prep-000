@@ -8,5 +8,5 @@ function destructivelyAddElementToBeginningOfArray(chocolateBars, foo){
   return chocolateBars
 }
 function addElementToEndOfArray(chocolateBars, foo){
-  
+  return [foo]
 }
