@@ -30,4 +30,4 @@ return array.pop(-1)
 function removeElementFromEndOfArray(array){
   return array.slice(-1)
 }
-function destructivelyRemove
+function destructivelyRemoveElementFrom
